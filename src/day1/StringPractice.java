@@ -7,6 +7,11 @@ public class StringPractice {
         String lastName = "Mirzoev";
         System.out.println("full name = " + firstName+" "+lastName);
 
+        System.out.println("Hello world");
+        System.out.println("Hello world ");
+
+
+
 
     }
 }
